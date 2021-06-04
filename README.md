@@ -1,19 +1,20 @@
 # Estruturas de dados em linguagem C/C++ universidade zambeze Moçambique
 
-Este e' o repositorio que possui as estruturas de dados aprendidos na universidade Zambeze <br>
+Este e' o repositorio que possui as estruturas de dados aprendidos na Universidade Zambeze <br>
 e nao so' como também para que se interessa pelo assunto.
 Antes de Usar certifique de ter lido as informacoes sobre a licença do mesmo.
 
 ## Estrutura do repositorio
 
 A cada estrutura criada ela estará organizada em uma pasta com o nome da respetiva estrutura estrutura<br>
-Ex: SingleLinkedList// main.c/cpp, Stack// main.c/cpp e seus respetivos componentes.<br>
+Ex: SingleLinkedList// SingleLinkedList.c/cpp, Stack// Stack.c/cpp e seus respetivos componentes.<br>
 
 ## Estruturas de dados atualmente disponíveis
 
 ### Linked Lists
 
 _-Single Linked List-_<br>
+_-Double Linked List-_<br>
 
 ## Autor
 

@@ -7,7 +7,7 @@ Antes de Usar certifique de ter lido as informações sobre a licença do mesmo.
 ## Estrutura do repositório
 
 A cada estrutura de dados criada estará organizada em uma pasta com o nome da respetiva estrutura estrutura<br>
-Ex: SingleLinkedList// SingleLinkedList.c/cpp, Stack// Stack.c/cpp e seus respetivos componentes.<br>
+Ex: SingleLinkedList/ SingleLinkedList.c/cpp, Stack/ Stack.c/cpp e seus respetivos componentes.<br>
 
 ## Estruturas de dados atualmente disponíveis
 

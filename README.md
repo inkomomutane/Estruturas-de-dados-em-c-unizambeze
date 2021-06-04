@@ -1,10 +1,10 @@
-# Estruturas de dados em linguagem C/C++ universidade zambeze Moçambique
+# Estruturas de dados em linguagem C/C++ Universidade Zambeze Moçambique
 
-Este e' o repositorio que possui as estruturas de dados aprendidos na Universidade Zambeze <br>
-e nao so' como também para que se interessa pelo assunto.
-Antes de Usar certifique de ter lido as informacoes sobre a licença do mesmo.
+Este é o repositório que possui as estruturas de dados aprendidos na Universidade Zambeze <br>
+e nao é como também para que se interessa pelo assunto.
+Antes de Usar certifique de ter lido as informações sobre a licença do mesmo.
 
-## Estrutura do repositorio
+## Estrutura do repositório
 
 A cada estrutura criada ela estará organizada em uma pasta com o nome da respetiva estrutura estrutura<br>
 Ex: SingleLinkedList// SingleLinkedList.c/cpp, Stack// Stack.c/cpp e seus respetivos componentes.<br>
@@ -23,7 +23,7 @@ _-Double Linked List-_<br>
 
 ## Licença
 
-Este repositorio foi criado sob licença [MIT license](https://opensource.org/licenses/MIT).
+Este repositório foi criado sob licença [MIT license](https://opensource.org/licenses/MIT).
 
 ## Referencias bibliográficas
 
